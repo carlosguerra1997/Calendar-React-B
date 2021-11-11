@@ -1,0 +1,18 @@
+{
+  "name": "Calendar-React-B",
+  "version": "1.0.0",
+  "description": "Calendar React Backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Carlos Guerra García",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0"
+  }
+}
